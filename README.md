@@ -50,15 +50,8 @@ cd crops-predicts
   
   ```
 
-### Navigate to the src directory
-
 ```bash
-cd src
-Run the Streamlit app
-```
-
-```bash
-streamlit run main.py
+streamlit run app.py
 ```
 
 Now, the app should be running locally on your machine.
